@@ -1,6 +1,5 @@
 <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 2rem; flex-wrap: wrap;">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="cool dev gif" width="300" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFjcnZiZndxb2tpb3ZtNTg1ZGR4cDgwa2ozdzRzb2w3eHJleG5vYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HteV6g0QTNxp6/giphy.gif" alt="trippy 3D tunnel gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="cool dev gif" width="600" />
 </div>
 
 # Hey, I’m Nicolás
